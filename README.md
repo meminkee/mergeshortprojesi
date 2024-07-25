@@ -1,0 +1,2 @@
+# mergeshortprojesi
+proje 2
